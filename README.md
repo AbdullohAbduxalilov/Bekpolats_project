@@ -10,6 +10,11 @@ A new Flutter project.
 <a href="https://ibb.co/y8nL0zy"><img src="https://i.ibb.co/cNczJWF/Screenshot-1628669715.png" alt="Screenshot-1628669715" border="0"></a>
 <a href="https://ibb.co/tYcqdhs"><img src="https://i.ibb.co/qm9NZns/Screenshot-1628669679.png" alt="Screenshot-1628669679" border="0"></a>
 
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.4.0
+  firebase_auth:
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:

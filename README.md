@@ -1,0 +1,1 @@
+# Bekpolats_project
